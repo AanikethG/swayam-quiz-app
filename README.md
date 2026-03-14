@@ -66,19 +66,5 @@ Adding new content requires zero coding. Just two simple steps:
     ]
     ```
 
-## 🌐 How to Host on GitHub Pages (Free)
-
-This project is perfectly suited for free hosting on GitHub Pages since it requires no backend server. Follow these steps:
-
-1. Go to your repository on GitHub.
-2. Click the **Settings** tab (the gear icon near the top right).
-3. On the left sidebar menu, click on **Pages**.
-4. Under the **"Build and deployment"** section, ensure the Source is set to **"Deploy from a branch"**.
-5. Under the **"Branch"** section, click the dropdown that says *None* and select **`main`**.
-6. Leave the folder dropdown as `/ (root)`.
-7. Click the **Save** button.
-
-That's it! Wait about 1-2 minutes, refresh the page, and GitHub will provide you with a live URL at the top (usually looking like `https://[your-username].github.io/swayam-quiz-app/`).
-
 ---
-Built for SWAYAM learners. Data is for practice purposes only.
+Built for SWAYAM learners.
