@@ -1,0 +1,164 @@
+{
+  "title": "Soft Skill Development - Week 8",
+  "week": 8,
+  "subject": "Soft Skill Development",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Global economic shifts, political instability, and rapid technological change can function as external pressures that influence employees’ job performance.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "The spillover perspective proposes that emotions, attitudes, and behaviours developed in one domain (work or family) can transfer into the other domain.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "Self-reliance refers to the incapacity to depend on one’s own judgement and abilities, which gradually develops through repeated practice and real-life experience.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "A situation where expectations from one role make it difficult to fulfil expectations from another role is known as _________________.",
+      "options": [
+        "Work-life conflict",
+        "Work-family harmony",
+        "Role compatibility",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "Which of the following outcomes generally reflects a positive rather than a negative impact of stress in organizations?",
+      "options": [
+        "Increased absenteeism",
+        "Frequent employee turnover",
+        "Reduced productivity",
+        "Improved engagement"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "A non-profit organization develops community spaces that promote health awareness and hygiene education. This initiative mainly strengthens which resilience strategy?",
+      "options": [
+        "Risk-Focused Strategy",
+        "Asset-Focused Strategy",
+        "Process-Focused Strategy",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Successful time management depends not only on planning alone, but also on consistently practising behaviours that support the completion of goal-oriented tasks. Is this statement correct?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "Individuals who manage their time efficiently often experience which of the following outcomes?\nA. Higher perceived job performance\nB. Greater satisfaction with work and personal life\nC. Clearer understanding of role expectations\nD. Increased somatic stress symptoms",
+      "options": [
+        "Only A is correct",
+        "Only A and B are correct",
+        "Only A, B and C are correct",
+        "All of the above are correct"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "The natural preference individuals have for being more active and productive at particular times of the day is referred to as _________________.",
+      "options": [
+        "Polychronicity",
+        "Monochronicity",
+        "Chronotype",
+        "Diurnality"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "When stress levels are moderate rather than extreme, individuals are typically _________________.",
+      "options": [
+        "More attentive",
+        "Mentally stimulated",
+        "Ready to respond to challenges",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Assertion (A): Remaining silent about unfair workplace behaviour reflects strong emotional intelligence.\nReason (R): Emotional intelligence involves self-awareness, responsible behaviour, and constructive communication.",
+      "options": [
+        "Both A and R are true, and R explains A",
+        "Both A and R are true, but R does not explain A",
+        "A is false, but R is true",
+        "A is true, but R is false"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Consider the following statements about resilience:\nA. It helps individuals continue functioning effectively during challenging situations\nB. It allows individuals to recover after facing setbacks\nC. It supports the maintenance of overall well-being",
+      "options": [
+        "Only A is correct",
+        "Only A and B are correct",
+        "Only A and C are correct",
+        "All A, B, and C are correct"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Which of the following responses is least effective for dealing with stress in the workplace?",
+      "options": [
+        "Taking brief breaks to reset during demanding tasks",
+        "Avoiding discussion of stress and hoping it resolves on its own",
+        "Seeking advice from experienced colleagues or mentors",
+        "Trying to identify and manage the root causes of stress"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Organizations aiming to support employees’ work-life balance may introduce which of the following policies?\nA. Flexible scheduling options\nB. Parental or family leave provisions\nC. On-site childcare services\nD. Alternative work arrangements, such as remote work",
+      "options": [
+        "Only A is correct",
+        "Only A, B, and C are correct",
+        "Only B, C, and D are correct",
+        "All A, B, C, and D are correct"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Meera works long hours in consulting but also prioritizes painting and spending weekends with family. Which approach best represents a healthy work–life balance strategy?",
+      "options": [
+        "Keeping strict boundaries between professional and personal roles",
+        "Shifting attention effectively between work responsibilities and personal interests",
+        "Seeking satisfaction from both professional achievements and personal activities",
+        "Combining all of the above approaches"
+      ],
+      "answer": 3
+    }
+  ]
+}

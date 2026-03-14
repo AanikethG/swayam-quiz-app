@@ -1,0 +1,166 @@
+{
+  "title": "Soft Skill Development - Week 2",
+  "week": 2,
+  "subject": "Soft Skill Development",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Good relationship is an important factor that helps a group to function effectively.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "Communication originates from the Latin word \"communis\", which means \"to make common.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "Which option best challenges the statement \"hard skills are measurable and soft skills are not\"?",
+      "options": [
+        "Hard skills can be graded using tests, while soft skills cannot be observed.",
+        "Soft skills can be assessed through behavior-based rubrics, though not with absolute precision",
+        "Soft skills are personal traits and therefore irrelevant in professional settings",
+        "Hard skills are learned, while soft skills are inherited"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "___________________ is a two-way process, and there is always a direct link between the quality of our communication and the quality of our life.",
+      "options": [
+        "Communication",
+        "Good relationship",
+        "Presentation skills",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "Which statement MOST accurately reflects the role of words and non-words in communication?",
+      "options": [
+        "Words convey meaning, while non-words only add emotion and are optional",
+        "Non-words always communicate more accurately than words",
+        "Words transmit explicit messages, while non-words often modify, reinforce, or contradict them",
+        "Words and non-words function independently and never affect each other"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "In Fisher's model of group progression, in which stage do the group members get to know one another and come up with the problems they have convened to deal with?",
+      "options": [
+        "Orientation",
+        "Conflicts",
+        "Emergence",
+        "Reinforcement"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "Read the following statements and choose the correct option. Statement 1: The status of a communicator can influence how a message is interpreted by the receiver. Statement 2: Messages from higher-status individuals are often accepted with less questioning.",
+      "options": [
+        "Both Statement 1 and Statement 2 are true, and Statement 2 is the correct explanation of Statement 1",
+        "Both Statement 1 and Statement 2 are true, but Statement 2 is not the correct explanation of Statement 1",
+        "Statement 1 is true, but Statement 2 is false",
+        "Statement 1 is false, but Statement 2 is true"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "Which kind of communicators believe that the primary purpose of communication is the maintenance or advancement of the personal relationship?",
+      "options": [
+        "Socratic communicator",
+        "Noble communicator",
+        "Reflective communicator",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "From the perspective of concrete (pattern) poetry, which statement BEST explains the communicative function of \"Easter Wings\"?",
+      "options": [
+        "The poem's meaning depends entirely on metaphor, not on its visual form",
+        "The poem uses imagery only through figurative language, not through physical arrangement",
+        "The visual layout distracts the reader from the poem's religious message",
+        "The wing-shaped structure visually enacts the themes of fall and redemption, reinforcing verbal meaning"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "An effective group occurs when the members have ___________________ and recognize that their personal success is dependent on the success of others.",
+      "options": [
+        "similar jobs",
+        "a common goal",
+        "a common work environment",
+        "the same leader"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "In communication, images always function as supportive elements that clarify the meaning of the accompanying text.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Read the following statements and choose the correct option. Statement 1: Increasing the spatial or conceptual distance between an image and its accompanying text can reduce their perceived interdependence in communication. Statement 2: Close integration of image and text ensures complete elimination of ambiguity in meaning.",
+      "options": [
+        "Both Statement 1 and Statement 2 are true, and Statement 2 is the correct explanation of Statement 1",
+        "Both Statement 1 and Statement 2 are true, but Statement 2 is not the correct explanation of Statement 1",
+        "Statement 1 is true, but Statement 2 is false",
+        "Statement 1 is false, but Statement 2 is true"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "A presenter may shorten or lengthen a presentation based on real-time audience reaction and engagement, demonstrating effective ___________________.",
+      "options": [
+        "feedback management",
+        "encoding",
+        "noise control",
+        "channel selection"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "question": "Which principle BEST guides the effective use of text size and amount in a presentation?",
+      "options": [
+        "Slides should contain as much text as possible to avoid verbal repetition",
+        "Smaller text allows more information to be displayed without distracting the audience",
+        "Larger text with limited content enhances readability and supports spoken explanation",
+        "Text size and amount are irrelevant if visuals are used"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "In which situation should a communicator AVOID conveying a strong sense of enthusiasm?",
+      "options": [
+        "When motivating a team toward a challenging goal",
+        "When presenting a creative proposal to potential investors",
+        "When introducing a new initiative to employees",
+        "When delivering sensitive or distressing information"
+      ],
+      "answer": 3
+    }
+  ]
+}

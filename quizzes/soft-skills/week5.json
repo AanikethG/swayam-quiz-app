@@ -1,0 +1,168 @@
+{
+  "title": "Soft Skill Development - Week 5",
+  "week": 5,
+  "subject": "Soft Skill Development",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Self-concept plays a significant role in shaping both intrapersonal and interpersonal communication.",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "Is it possible to enhance emotional intelligence without understanding one’s own emotions and those of others?",
+      "options": [
+        "(a) Yes",
+        "(b) No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "The ability to use emotions to enhance thinking, reasoning, problem-solving, and decision-making is referred to as:",
+      "options": [
+        "(a) Emotional facilitation of thought",
+        "(b) Emotional suppression",
+        "(c) Emotional perception",
+        "(d) Emotional expression"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Which structure of the limbic system is often described as the \"seat of all passions\"?",
+      "options": [
+        "(a) Brain stem",
+        "(b) Hippocampus",
+        "(c) Amygdala",
+        "(d) Cerebellum"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Human emotions significantly influence an individual's _______________.",
+      "options": [
+        "(a) Cognitive processes",
+        "(b) Nervous system",
+        "(c) Muscular coordination",
+        "(d) Physical endurance"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "Attributes such as compassion, intuition, and personal outlook are best classified as components of:",
+      "options": [
+        "(a) Emotional competence",
+        "(b) Emotional values and beliefs",
+        "(c) Emotional regulation strategies",
+        "(d) Emotional awareness skills"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "An organisation that continues to function without initiating any change is considered to be in a state of:",
+      "options": [
+        "(a) Equilibrium",
+        "(b) Disequilibrium",
+        "(c) Chaos",
+        "(d) Transformation"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "Factors such as legal, political, economic, technological, social, and international influences are classified as:",
+      "options": [
+        "(a) External factors",
+        "(b) Internal factors",
+        "(c) Individual factors",
+        "(d) Psychological factors"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "In Lewin's change framework, the stage where management recognizes the necessity for change is called:",
+      "options": [
+        "(a) Unfreezing",
+        "(b) Changing",
+        "(c) Refreezing",
+        "(d) None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "Intrapersonal communication reflects which of the following dimensions of the self?",
+      "options": [
+        "(a) Physical self",
+        "(b) Emotional self",
+        "(c) Social self",
+        "(d) All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Which form of communication occurs when individuals interpret and respond to their own internal and external stimuli?",
+      "options": [
+        "(a) Interpersonal communication",
+        "(b) Intragroup communication",
+        "(c) Intrapersonal communication",
+        "(d) Intergroup communication"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "In the practice of karuna (compassion), challenging stereotypes matters chiefly because it:",
+      "options": [
+        "(a) substitutes affective responses with detached reasoning",
+        "(b) anchors compassion in understanding rather than fixed assumptions",
+        "(c) stabilizes moral responses across diverse situations",
+        "(d) removes the need to attend to particular lived experiences"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Assertion (A): In communication, it is important to try to see a situation even from an enemy's point of view. Reason (R): This is because understanding the other side's perspective helps move communication beyond just arguing or trying to win.",
+      "options": [
+        "(a) Both A and R are true, and R is the correct explanation of A.",
+        "(b) Both A and R are true, but R is not the correct explanation of A.",
+        "(c) A is true, but R is false.",
+        "(d) A is false, but R is true."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "question": "Which of the following combinations correctly represents the personal competencies in emotional intelligence? A. Self-awareness, B. Self-management, C. Social awareness, D. Relationship management",
+      "options": [
+        "(a) Only A",
+        "(b) Both A and B",
+        "(c) Both C and D",
+        "(d) Both A and D"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "A mediator working in a conflict zone initially feels overwhelmed by anger and sadness when listening to victims' stories. Over time, with practice, the mediator learns to understand each side's suffering clearly without being emotionally flooded, and can respond in a more balanced and effective way. This change is best explained as a shift from:",
+      "options": [
+        "(a) sympathy to indifference",
+        "(b) moral judgment to neutrality",
+        "(c) affective empathy to cognitive empathy",
+        "(d) emotional detachment to emotional suppression"
+      ],
+      "answer": 2
+    }
+  ]
+}

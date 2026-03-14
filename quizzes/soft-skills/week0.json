@@ -1,0 +1,166 @@
+{
+  "title": "Soft Skill Development - Week 0",
+  "week": 0,
+  "subject": "Soft Skill Development",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following word is communication derived from?",
+      "options": [
+        "Communis",
+        "Common",
+        "Communicate",
+        "Interact"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "Persuasion can take place through language and through image.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "The rod cells give us color vision and the cone cells give us black and white vision.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is an ideal posture while presenting?",
+      "options": [
+        "Leaning on things",
+        "Hiding behind the lectern",
+        "Folding your arms across your chest",
+        "Standing up straight"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "___________ is an important factor which helps a group to function effectively.",
+      "options": [
+        "Attitude",
+        "Good relationship",
+        "Personality",
+        "Presentation skill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Proxemics is a type of _________ communication strategy used for conflict management.",
+      "options": [
+        "Nonverbal",
+        "Verbal"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "The study of _________ helps us to recognize the formation of a group and states how the group should be organized, lead and promoted.",
+      "options": [
+        "Group dynamics",
+        "Group behavior",
+        "Effective communication",
+        "Group formation"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "Stress causes physical problems, emotional turmoil and adverse mental health by disturbing the dynamic equilibrium in our body known as _________.",
+      "options": [
+        "Equipoise",
+        "Homeostasis",
+        "Self-regulation",
+        "Metabolism"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Chronotype refers to the behavioural manifestation of underlying circadian rhythms of myriad _________ processes.",
+      "options": [
+        "Psychological",
+        "Psycho-physiological",
+        "Physical",
+        "Cognitive"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "_________ helps one to make sense of the world.",
+      "options": [
+        "Decision",
+        "Reaction",
+        "Knowledge",
+        "Assumption"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "_________ is involved in emotional memory and mood control.",
+      "options": [
+        "Limbic system",
+        "The occipital lobe",
+        "The parieto-temporal lobe",
+        "The temporal lobe"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 12,
+      "question": "The process of _________ conditions us to use our left brain frequently.",
+      "options": [
+        "Motivation",
+        "Norming",
+        "Perceiving",
+        "Socialization"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "When the content load of any message increases, the ability to _________ decreases.",
+      "options": [
+        "Transfer",
+        "Encode",
+        "Remember",
+        "Speak"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is NOT necessary for listening properly?",
+      "options": [
+        "Patience",
+        "Apathy",
+        "Empathy",
+        "Alertness"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "_________ are innocent lies which we continuously keep on telling, showing, and displaying in various ways in a social face, because that is expected from us.",
+      "options": [
+        "Green lies",
+        "Black lies",
+        "White lies",
+        "Blue lies"
+      ],
+      "answer": 2
+    }
+  ]
+}

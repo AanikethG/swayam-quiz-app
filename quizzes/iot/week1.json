@@ -1,0 +1,162 @@
+{
+  "title": "Introduction To Internet Of Things - Week 1",
+  "week": 1,
+  "subject": "Introduction To Internet Of Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the full form of IoT?",
+      "options": [
+        "Internet of Tasks",
+        "Internet of Articles",
+        "Internet of Taps",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "The \"Source Address\" field in the IPv6 header is of _______ bits in length.",
+      "options": [
+        "32",
+        "64",
+        "128",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is/are not an enabler of IoT?",
+      "options": [
+        "RFID",
+        "Sensors and Actuators",
+        "Cloud Computing",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "The gateway is tasked with assigning a unique address to each of the field devices or sensors within its jurisdiction.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "State whether the following statement is True or False. Statement: The Increasing number of devices in IoT is expected to result in an address crunch.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "In ___________ a node/network is connected to multiple networks for improved reliability.",
+      "options": [
+        "Transparent roaming",
+        "Multi-homing",
+        "None of these",
+        "Both (a) and (b)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is NOT a function of an IoT Gateway?",
+      "options": [
+        "Connects the IoT LAN to a WAN",
+        "Can implement several LAN and WAN",
+        "Both (a) and (b)",
+        "Neither (a) Nor (b)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Which of the following statements is/are incorrect? Statement I: An actuator is a component of a machine or system that moves or controls the mechanism or the system. Statement II: An actuator requires a control signal and a source of energy.",
+      "options": [
+        "Statement I is incorrect",
+        "Statement II is incorrect",
+        "Both statements are incorrect",
+        "Both statements are correct"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT a function of an IoT LAN?",
+      "options": [
+        "Long range communication, global",
+        "World wide connections",
+        "Both (a) and (b)",
+        "Neither (a) Nor (b)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "State whether the following statement is True or False. Statement: The word \"Transducer\" is a collective term used for both Sensors and Actuators.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 11,
+      "question": "Analog Sensors produce a discontinuous output signal or voltage, which is generally proportional to the quantity being measured.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "If the output signal differs from the correct value by a constant, the sensor has an ___________.",
+      "options": [
+        "Offset error",
+        "Bias",
+        "Both (a) and (b)",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "State True or False: Pneumatic actuators enable the production of large forces from a relatively larger pressure changes.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "question": "A sensor node is made up of which of the following?",
+      "options": [
+        "Sensor/Sensors",
+        "A processing unit",
+        "A power unit",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "What is the full form of SMP in the context of IoT actuators?",
+      "options": [
+        "Shape Memory Polymers",
+        "Shape Master Polymers",
+        "Switch Mode Power",
+        "Sensor Making Polymer"
+      ],
+      "answer": 0
+    }
+  ]
+}

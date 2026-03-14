@@ -1,0 +1,170 @@
+{
+  "title": "Soft Skill Development - Week 1",
+  "week": 1,
+  "subject": "Soft Skill Development",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following best explains the difference between hard skills and soft skills?",
+      "options": [
+        "Hard skills are personal traits, while soft skills are technical abilities.",
+        "Hard skills are easily measurable and quantifiable, whereas soft skills are more difficult to define and assess.",
+        "Hard skills are learned through experience, while soft skills are learned through formal education.",
+        "Hard skills are less important than soft skills in the workplace."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "In communication, the idea that different people may interpret the same message differently is best illustrated by which concept?",
+      "options": [
+        "Noise in communication",
+        "Encoding and decoding",
+        "Selective perception",
+        "Interpretation based on individual experiences"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best describes dogma as a barrier to communication?",
+      "options": [
+        "Lack of feedback from the receiver",
+        "Use of complex technical language",
+        "Rigid beliefs that prevent acceptance of new ideas",
+        "Physical distance between sender and receiver"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "In a formal group discussion, the principle \"Use non-verbal gestures to intervene and then to continue\" mainly emphasizes which of the following?",
+      "options": [
+        "Relying only on written communication",
+        "Interrupting speakers verbally to gain attention",
+        "Using appropriate body language to signal participation without disrupting the flow",
+        "Avoiding participation until invited by the leader"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Tenseness in a male voice often signals _________.",
+      "options": [
+        "friendliness",
+        "confidence",
+        "quarrelsomeness",
+        "indifference"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The frequent use of the \"I\" habit in conversation primarily reflects which communication behavior?",
+      "options": [
+        "Mutual understanding",
+        "Conversational dominance",
+        "Supportive listening",
+        "Group harmony"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The story of the man struck by an arrow, to whom Buddha responds with silence, primarily teaches that communication should focus on:",
+      "options": [
+        "Debating metaphysical questions before addressing reality",
+        "Seeking the source of suffering rather than its immediate solution",
+        "Solving practical problems instead of indulging in unnecessary speculation",
+        "Maintaining silence as the highest form of communication"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "In communication, the concept of territory refers to personal or social space, which keeps changing mainly due to:",
+      "options": [
+        "Fixed cultural rules that never vary",
+        "Individual status, context, and relationships",
+        "Biological differences among people",
+        "Permanent personality traits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "In Japanese communication, pauses in conversation are generally interpreted as a sign of:",
+      "options": [
+        "Lack of knowledge or confusion",
+        "Disinterest in the discussion",
+        "Thoughtfulness and respect for the listener",
+        "Communication breakdown"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "In the process of listening, the term foreground refers to:",
+      "options": [
+        "Background noise that interferes with listening",
+        "Information that the listener deliberately focuses on",
+        "Unconscious interpretation of messages",
+        "Physical setting of the communication"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Thoughts and beliefs of a speaker can be perceived by a listener through effective listening.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 12,
+      "question": "In a professional conversation, the guideline \"don't interrupt unless necessary\" is best applied when the listener aims to:",
+      "options": [
+        "Control the direction of the discussion",
+        "Demonstrate authority over the speaker",
+        "Ensure accurate understanding before responding",
+        "Avoid participating in the conversation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "In social transactions, a \"white lie\" is most commonly used to:",
+      "options": [
+        "Gain unfair advantage over others",
+        "Deliberately mislead for personal benefit",
+        "Conceal serious ethical violations",
+        "Maintain social harmony and avoid hurting feelings"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "When visuals are used as a supplement in communication, their primary function is to:",
+      "options": [
+        "Support and enhance understanding of the message",
+        "Substitute spoken or written content",
+        "Distract the audience from the main message",
+        "Limit audience interpretation"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 15,
+      "question": "Statement I: Gestures and postures play a significant role in conveying attitudes and emotions during communication. Statement II: Gestures and postures always have the same meaning across different cultures.",
+      "options": [
+        "Both Statement I and Statement II are true",
+        "Both Statement I and Statement II are false",
+        "Statement I is true and Statement II is false",
+        "Statement I is false and Statement II is true"
+      ],
+      "answer": 2
+    }
+  ]
+}

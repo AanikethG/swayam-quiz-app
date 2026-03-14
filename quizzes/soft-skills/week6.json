@@ -1,0 +1,161 @@
+{
+  "title": "Soft Skill Development - Week 6",
+  "week": 6,
+  "subject": "Soft Skill Development",
+  "questions": [
+    {
+      "id": 1,
+      "question": "While making sound judgments, which of the following should be avoided as a primary basis?",
+      "options": [
+        "(a) Intuition",
+        "(b) Common sense",
+        "(c) Gossip",
+        "(d) Past experience"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which idea-generation technique encourages participants to rapidly list as many ideas as possible within a limited time?",
+      "options": [
+        "(a) Slipcard writing",
+        "(b) Brainstorming",
+        "(c) Nominal group technique",
+        "(d) Panel discussion"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "In creativity research, how is \"originality\" most accurately characterized?",
+      "options": [
+        "(a) The degree to which an idea is rare or statistically infrequent compared to others",
+        "(b) The ability to generate a large number of ideas in a short period of time",
+        "(c) The level of elaboration and refinement applied to an idea",
+        "(d) The extent to which an idea can be realistically implemented in everyday situations"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Assertion (A): Yellow hat thinking focuses on identifying benefits and positive aspects of an idea. Reason (R): It is because Blue hat thinking is responsible for managing and organizing the thinking process rather than generating creative ideas.",
+      "options": [
+        "(a) Both A and R are true, and R is the correct explanation of A",
+        "(b) Both A and R are true, but R is not the correct explanation of A",
+        "(c) A is true, but R is false",
+        "(d) A is false, but R is true"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Freewriting implies: A. Continuous, uninhibited writing without concern for grammar or structure B. Final arrangement of free association and divergent thinking C. Careful analytical evaluation while writing",
+      "options": [
+        "(a) Only B and C",
+        "(b) Only A and B",
+        "(c) Only A",
+        "(d) All A, B and C"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "According to Beyer (1995), critical thinking primarily involves making ________ judgements.",
+      "options": [
+        "(a) informed",
+        "(b) reasoned",
+        "(c) emotional",
+        "(d) intuitive"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "According to J. P. Guilford, creativity is primarily associated with:",
+      "options": [
+        "(a) The ability to arrive at a single correct solution through logical reasoning",
+        "(b) The habit of deviating from rules regardless of relevance to the task",
+        "(c) The tendency to reject conventional answers without producing alternatives",
+        "(d) The capacity to generate multiple, varied, and novel responses to a problem"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Free association is a technique that encourages the generation of ideas through ________.",
+      "options": [
+        "(a) logical evaluation and systematic analysis",
+        "(b) structured problem-solving steps",
+        "(c) spontaneous and uncensored flow of thoughts",
+        "(d) critical comparison of alternatives"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "During the process of socialization, which part of the brain is predominantly engaged?",
+      "options": [
+        "(a) Right cerebral hemisphere",
+        "(b) Left cerebral hemisphere",
+        "(c) Both hemispheres equally",
+        "(d) Brainstem"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Among the Big Five personality traits, which one is most commonly associated with creativity?",
+      "options": [
+        "(a) Openness to experience",
+        "(b) Conscientiousness",
+        "(c) Neuroticism",
+        "(d) Extroversion"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 11,
+      "question": "In which idea-generation method are participants discouraged from criticizing or evaluating ideas during the generation phase?",
+      "options": [
+        "(a) Slipcard technique",
+        "(b) Brainstorming",
+        "(c) Nominal group technique",
+        "(d) Structured discussion group"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Critical thinking can best be described as a ________ approach used to analyze situations and events in our surroundings.",
+      "options": [
+        "(a) Constructive",
+        "(b) Reductionist",
+        "(c) Punitive",
+        "(d) Deterministic"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 13,
+      "question": "Which of the following statements reflects common misconceptions about creativity? A. Creativity is an innate ability possessed by only a few people B. Individuals either have creativity or they do not C. Creative thinking disrupts organizational productivity D. Creativity is useful only in specific functional areas",
+      "options": [
+        "(a) Only A is correct",
+        "(b) Only B is correct",
+        "(c) Only C and D are correct",
+        "(d) All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Assertion (A): During the incubation stage of creativity, the individual appears to step away from actively thinking about the problem. Reason (R): In this stage, the mind continues to process the problem subconsciously without deliberate effort.",
+      "options": [
+        "(a) Both A and R are true, and R is the correct explanation of A",
+        "(b) Both A and R are true, but R is not the correct explanation of A",
+        "(c) A is true, but R is false",
+        "(d) A is false, but R is true"
+      ],
+      "answer": 0
+    }
+  ]
+}

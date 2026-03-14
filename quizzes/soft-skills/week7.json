@@ -1,0 +1,166 @@
+{
+  "title": "Soft Skill Development - Week 7",
+  "week": 7,
+  "subject": "Soft Skill Development",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Assertion (A): Persuasion is limited only to political campaigns. Reason (R): Political leaders use persuasive speeches to gain public support.",
+      "options": [
+        "(a) Both A and R are true, and R is the correct explanation of A.",
+        "(b) Both A and R are true, but R is not the correct explanation of A.",
+        "(c) A is true, but R is false.",
+        "(d) A is false, but R is true."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Manipulation is considered a subset of persuasion primarily because:",
+      "options": [
+        "(a) It always involves open discussion and mutual benefit.",
+        "(b) It focuses on logical reasoning and evidence-based arguments.",
+        "(c) It involves influencing others with the primary intent of serving the manipulator's hidden interests.",
+        "(d) It is identical to ethical persuasion in all contexts."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "In a social media advertisement, the use of bright colours, smiling faces, and \"Limited Offer\" graphics mainly aims to:",
+      "options": [
+        "(a) Provide detailed technical information about the product",
+        "(b) Enhance persuasive impact by triggering emotional and psychological responses",
+        "(c) Replace the need for any written content",
+        "(d) Reduce audience engagement to avoid information overload"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which of the following does NOT form a core element of motivation?",
+      "options": [
+        "(a) Direction",
+        "(b) Effort",
+        "(c) Persistence",
+        "(d) Persuasion"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "“Neurochemicals such as dopamine, adrenaline, and noradrenaline have no role in mental stimulation and motivational processes.” Evaluate the statement.",
+      "options": [
+        "(a) Correct",
+        "(b) Incorrect"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "According to Goal-Setting Theory, which type of goal results in enhanced performance levels?",
+      "options": [
+        "(a) A self-set, moderately difficult goal",
+        "(b) A self-set, highly difficult goal",
+        "(c) A self-set, easy goal",
+        "(d) A goal imposed without personal involvement"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "The ability to listen effectively forms the foundation of successful communication.",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "Which of the following are identified as contemporary concerns within the negotiation process?",
+      "options": [
+        "(a) The role of personality traits",
+        "(b) The effect of cultural differences",
+        "(c) The role of gender differences",
+        "(d) All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "In which negotiating style do individuals avoid confrontation and attempt to escape conflict situations?",
+      "options": [
+        "(a) Accommodator negotiating style",
+        "(b) Compromiser negotiating style",
+        "(c) Avoider negotiating style",
+        "(d) Problem solver negotiating style"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of the following traits best describes a socio-emotional leadership style?",
+      "options": [
+        "(a) Allows everyone to get a turn in the discussion",
+        "(b) Manages people's faces and handles their feelings",
+        "(c) Keeps the personal relationships between group members",
+        "(d) All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Ensuring task completion, summarizing discussions, and planning future agendas are key responsibilities of a task-oriented leader.",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is considered the strongest motivational factor used by leaders to enhance employee motivation?",
+      "options": [
+        "(a) Involvement",
+        "(b) Appreciation",
+        "(c) Good relationship",
+        "(d) Awareness of personal situations"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "A charity campaign describes children as \"innocent victims trapped in a cycle of hopeless suffering.\" This is an example of a persuasive strategy because of the emotive language:",
+      "options": [
+        "(a) Provides statistical proof to strengthen the argument",
+        "(b) Creates vivid emotional imagery that influences audience response",
+        "(c) Ensures complete objectivity in communication",
+        "(d) Replaces the need for a clear call to action"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Authority as a principle of persuasion is most closely associated with:",
+      "options": [
+        "(a) Physical attractiveness",
+        "(b) Emotional storytelling",
+        "(c) Perceived expertise or power",
+        "(d) Repetition of messages"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Assertion (A): In bargaining, applying pressure tactics often produces quicker compliance than relying solely on persuasion. Reason (R): Persuasion focuses on logical reasoning and mutual understanding rather than coercion.",
+      "options": [
+        "(a) Both A and R are true, and R is the correct explanation of A.",
+        "(b) Both A and R are true, but R is not the correct explanation of A.",
+        "(c) A is true, but R is false.",
+        "(d) A is false, but R is true."
+      ],
+      "answer": 1
+    }
+  ]
+}

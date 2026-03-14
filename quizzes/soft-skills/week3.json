@@ -1,0 +1,172 @@
+{
+  "title": "Soft Skill Development - Week 3",
+  "week": 3,
+  "subject": "Soft Skill Development",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In social settings, people sometimes learn to conceal or alter their facial expressions. Why does this ability often become more refined over time?",
+      "options": [
+        "(a) Social feedback rewards certain expressions",
+        "(b) Facial muscles weaken with suppression",
+        "(c) People memorize acceptable faces",
+        "(d) Emotions fade with age"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "When one object partially blocks another in a visual scene, the blocked object is perceived as farther away due to ___________.",
+      "options": [
+        "(a) linear perspective",
+        "(b) interposition",
+        "(c) texture gradient",
+        "(d) relative size"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which colour appears brightest to the human eye?",
+      "options": [
+        "(a) Red",
+        "(b) Orange",
+        "(c) Yellow",
+        "(d) Blue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which colour connotation is most commonly shared across many cultures?",
+      "options": [
+        "(a) White symbolizing mourning",
+        "(b) Purple representing royalty",
+        "(c) Red signalling danger or warning",
+        "(d) Green representing jealousy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Emotional substitution in facial expressions is best illustrated when a person:",
+      "options": [
+        "(a) smiles automatically after repeated social conditioning",
+        "(b) shows an expression shaped more by context than feeling",
+        "(c) fails to display emotion due to facial muscle fatigue",
+        "(d) reflects another person's emotion without awareness"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Consider the following statements about facial expressions of anger: A: Anger often results in a clenched jaw and furrowed eyebrows. B: Anger usually causes a person to smile or relax their facial muscles.",
+      "options": [
+        "(a) Both A and B are correct",
+        "(b) A is correct, B is false",
+        "(c) B is correct, A is false",
+        "(d) Both A and B are false"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The biological origin of baring teeth in humans is best supported by the fact that it:",
+      "options": [
+        "(a) is used mainly in polite social interactions",
+        "(b) appears in similar threat displays across animals",
+        "(c) changes meaning across different cultures",
+        "(d) requires awareness of social rules"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Statement: A single gesture is usually insufficient to accurately interpret a person's emotional state. Reason: Gestures gain meaning when interpreted as part of a cluster occurring together in context.",
+      "options": [
+        "(a) Both Statement and Reason are true, and Reason correctly explains the Statement",
+        "(b) Both Statement and Reason are true, but Reason does not explain the Statement",
+        "(c) Statement is true, but Reason is false",
+        "(d) Statement is false, but Reason is true"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "Consider the following statements. Assertion (A): Spoken words carry very little of the emotional content in face-to-face communication. Reason (R): Non-verbal cues (such as facial expressions and tone of voice) convey the majority of the emotional meaning.",
+      "options": [
+        "(a) Both A and R are true, and R correctly explains A",
+        "(b) Both A and R are true, but R does not explain A",
+        "(c) A is true, R is false",
+        "(d) A is false"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "In the modern age, visual capturing of individuals often occurs without their awareness, primarily because:",
+      "options": [
+        "(a) recording devices are larger and more visible",
+        "(b) people expect constant observation in public spaces",
+        "(c) cameras are embedded in everyday technologies",
+        "(d) visual data is used only for personal documentation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "In linear perspective drawing, what is the name of the point on the horizon where parallel lines appear to converge?",
+      "options": [
+        "(a) Focal point",
+        "(b) Vanishing point",
+        "(c) Horizon point",
+        "(d) Center of projection"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "William Blake's poems, often paired with his illustrations, demonstrate that:",
+      "options": [
+        "(a) Text can stand alone without any visual support",
+        "(b) Illustrations are merely decorative and unrelated to the text",
+        "(c) Text can serve as a supplement that enhances the meaning of the illustration",
+        "(d) Illustrations replace the need for textual explanation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Ethereal music is typically described as:",
+      "options": [
+        "(a) Loud and fast paced",
+        "(b) Heavy and rhythmic",
+        "(c) Light, airy, and atmospheric",
+        "(d) Simple and repetitive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Assertion: The choice of a mobile ringtone can communicate aspects of a person's identity. Reason: Ringtones are irritating.",
+      "options": [
+        "(a) Both Assertion and Reason are true, and Reason explains the Assertion",
+        "(b) Both Assertion and Reason are true, but Reason does not explain the Assertion",
+        "(c) Assertion is true, but Reason is false",
+        "(d) Assertion is false, but Reason is true"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "How do beat and tempo primarily influence the emotional expression of a piece of music?",
+      "options": [
+        "(a) By changing the key and scale used",
+        "(b) By altering the speed and rhythmic emphasis that shape the mood",
+        "(c) By modifying the lyrics and vocal style",
+        "(d) By adjusting the volume and instrumentation"
+      ],
+      "answer": 1
+    }
+  ]
+}

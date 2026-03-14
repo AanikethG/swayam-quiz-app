@@ -1,0 +1,166 @@
+{
+  "title": "Soft Skill Development - Week 4",
+  "week": 4,
+  "subject": "Soft Skill Development",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A good relationship can be activated through proper ___________.",
+      "options": [
+        "behaviour",
+        "attitude",
+        "communication",
+        "goals"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "A group is a collection of people who share a common meaning and evaluation of themselves and come together to achieve common goals.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "Kinesics is a type of ___________ communication strategy used for conflict management.",
+      "options": [
+        "Nonverbal",
+        "Verbal"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "What is the meaning of the Greek word from which 'dynamics' has been derived?",
+      "options": [
+        "Strength",
+        "Power",
+        "Force",
+        "Authority"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Networking can be described as a survival and collaborative phenomenon because it:",
+      "options": [
+        "is only useful in professional settings",
+        "happens only when people consciously plan it",
+        "structures how people rely on and support each other",
+        "replaces individual effort entirely"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which factor plays an important role in the self-disclosure stage of formulating a relationship?",
+      "options": [
+        "Trust and mutual exchange of thoughts",
+        "Relationship potential",
+        "Giving information",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "___________ style of conflict management attempts to balance the needs of both or all sides in a conflict by encouraging everyone to give in on at least some points.",
+      "options": [
+        "Avoiding style",
+        "Compromising style",
+        "Forcing style",
+        "Accommodating style"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Relationships influence our behaviour, goals, and attitudes.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "Assertion (A): Even informal, unintentional exchanges of ideas can be considered acts of networking. Reason (R): Networking is not limited to strategic relationship-building but also emerges from everyday social and intellectual interactions.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, but R is false.",
+        "A is false, but R is true."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "___________ is a conflict which occurs between two or more members of the same group or team.",
+      "options": [
+        "Intergroup conflict",
+        "Intragroup conflict",
+        "International conflict",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Which of the following sentences is CORRECT?",
+      "options": [
+        "Group dynamics is a system of behaviours and psychological processes occurring within a social group, or between social groups.",
+        "Group dynamics deal with the attitudes and behavioral patterns of a group.",
+        "Group dynamics is concerned with the formation, structure and functioning of a group.",
+        "All of the above."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "___________ groups are formed by members who enjoy similar social activities, political beliefs, religious values, or other common bonds.",
+      "options": [
+        "Reference group",
+        "Friendship group",
+        "Task group",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "A university introduces a virtual campus where students interact using avatars. Over time, students begin to avoid interrupting others' avatars during discussions and use specific gestures to signal agreement, even though these rules are not written anywhere. This situation best shows that:",
+      "options": [
+        "New social norms and protocols can emerge through repeated interaction",
+        "Users naturally import offline classroom behavior into online spaces",
+        "Virtual spaces cannot function without strict formal regulations",
+        "Avatars reduce the need for communication rules"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "question": "Which of the following sentence about reference groups are CORRECT ?",
+      "options": [
+        "The group consist of people who work together to achieve a common task.",
+        "The main objectives of the groups are to seek social validation and social comparison.",
+        "The members of the groups may not be part of the same organization but they are bound together by some other common interest.",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Which of the following are indicated as the form of formal groups?",
+      "options": [
+        "Interest groups",
+        "Friendship groups",
+        "Command groups",
+        "Reference groups"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SWAYAM Quiz Hub</title>
+    <meta name="description"
+        content="Practice quizzes for SWAYAM 12-week online courses. Test your knowledge week by week.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <!-- ============ HEADER ============ -->
+    <header id="app-header">
+        <div class="header-inner">
+            <button id="menu-toggle" class="menu-toggle" aria-label="Open menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <a href="#home" class="logo" id="logo-link">
+                <span class="logo-icon">📚</span>
+                <span class="logo-text">SWAYAM <span class="logo-accent">Quizlet</span></span>
+            </a>
+            <nav id="breadcrumb" class="breadcrumb"></nav>
+        </div>
+    </header>
+
+    <!-- ============ MOBILE NAV DRAWER ============ -->
+    <div id="nav-overlay" class="nav-overlay"></div>
+    <aside id="nav-drawer" class="nav-drawer">
+        <div class="drawer-header">
+            <h2>Subjects</h2>
+            <button id="menu-close" class="btn-icon" aria-label="Close menu">&times;</button>
+        </div>
+        <div class="drawer-content">
+            <ul id="drawer-subjects-list" class="drawer-list"></ul>
+        </div>
+    </aside>
+
+    <!-- ============ HOME VIEW ============ -->
+    <main id="view-home" class="view">
+        <section class="hero">
+            <h1>Choose Your Subject</h1>
+            <p class="hero-sub">Select a course to start practicing week-wise quizzes</p>
+        </section>
+        <div id="subjects-grid" class="subjects-grid"></div>
+    </main>
+
+    <!-- ============ SUBJECT / WEEKS VIEW ============ -->
+    <main id="view-subject" class="view">
+        <section class="subject-header">
+            <span id="subject-icon" class="subject-icon-large"></span>
+            <h1 id="subject-title"></h1>
+            <p id="subject-desc" class="subject-desc">Select a week to take the quiz</p>
+        </section>
+        <div id="weeks-list" class="weeks-list"></div>
+    </main>
+
+    <!-- ============ QUIZ VIEW ============ -->
+    <main id="view-quiz" class="view">
+        <div class="quiz-header-bar">
+            <div class="quiz-meta">
+                <h2 id="quiz-title"></h2>
+                <p id="quiz-subtitle"></p>
+            </div>
+            <div id="quiz-progress" class="quiz-progress">
+                <span id="quiz-progress-text"></span>
+            </div>
+        </div>
+
+        <!-- Score banner (shown after submit) -->
+        <div id="score-banner" class="score-banner hidden">
+            <div class="score-circle">
+                <span id="score-value">0</span>/<span id="score-total">0</span>
+            </div>
+            <div class="score-info">
+                <h3 id="score-msg">Great job!</h3>
+                <p id="score-detail"></p>
+            </div>
+            <div class="score-actions">
+                <button id="btn-retake" class="btn btn-primary" onclick="retakeQuiz()">↻ Retake Quiz</button>
+                <button class="btn btn-secondary" onclick="location.hash = currentSubjectHash">← Back to Weeks</button>
+            </div>
+        </div>
+
+        <form id="quiz-form" class="quiz-form" onsubmit="return handleSubmit(event)">
+            <div id="questions-container"></div>
+            <div class="quiz-actions">
+                <button type="submit" id="btn-submit" class="btn btn-primary btn-lg">Submit Answers</button>
+            </div>
+        </form>
+    </main>
+
+    <!-- ============ FOOTER ============ -->
+    <footer>
+        <p>Built for SWAYAM learners</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
