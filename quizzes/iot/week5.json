@@ -1,0 +1,172 @@
+{
+  "title": "Introduction To Internet Of Things - Week 5",
+  "week": 5,
+  "subject": "Introduction To Internet Of Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does the term \"Interoperability\" refer to in the context of IoT?",
+      "options": [
+        "a. The ability of a system to operate without power",
+        "b. The ability of different systems/products to work together without restrictions",
+        "c. The ability to increase the speed of the internet",
+        "d. None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "In the collaborative concept (Cosine) theory for interoperability, an object is defined as a quadruple (A, B, C, D). What does 'C' represent?",
+      "options": [
+        "a. The natural language used",
+        "b. The internal identifier",
+        "c. The context of A",
+        "d. The definition of the object"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best describes the \"Syntactic Interoperability\" challenge?",
+      "options": [
+        "a. Devices having different physical shapes",
+        "b. Devices using different message formats and data structures",
+        "c. Devices located in different countries",
+        "d. Devices having different owners"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a primary reason for the popularity of Arduino in IoT implementations?",
+      "options": [
+        "a) It is highly expensive and exclusive",
+        "b) It is low resource consuming and cheap",
+        "c) It requires high-power external cooling",
+        "d) It only supports digital signals"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What is the clock speed of the Arduino Uno board?",
+      "options": [
+        "a) 8 MHz",
+        "b) 32 MHz",
+        "c) 16 MHz",
+        "d) 50 MHz"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which function is used to iteratively loop over instances in an Arduino sketch?",
+      "options": [
+        "a) setup()",
+        "b) main()",
+        "c) loop()",
+        "d) start()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "In Arduino, what is the default starting index for an array?",
+      "options": [
+        "a) 1",
+        "b) -1",
+        "c) 0",
+        "d) 10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What does the delay(5000) command do in a traffic signal simulation?",
+      "options": [
+        "a) Resets the Arduino board",
+        "b) Introduces a delay of 5 seconds",
+        "c) Turns off all LEDs immediately",
+        "d) Skips the current execution loop"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which header file must be called to use mathematical functions like sin() or cos()?",
+      "options": [
+        "a) arduino.h",
+        "b) math.h",
+        "c) sensor.h",
+        "d) stdio.h"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "The DHT22 sensor is used for measuring which physical quantities?",
+      "options": [
+        "a) Pressure and Altitude",
+        "b) Light and Sound",
+        "c) Humidity and Temperature",
+        "d) Motion and Direction"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What is the recommended voltage range for the VCC pin of a DHT sensor to avoid damage?",
+      "options": [
+        "a) 1V to 2V",
+        "b) 3.3V to 5V",
+        "c) 12V to 24V",
+        "d) 0V to 1V"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "When integrating a typical digital temperature and humidity sensor (like the DHT series) with an Arduino board, which Arduino pin connection is used to receive the sensor's data?",
+      "options": [
+        "a) Ground (GND)",
+        "b) Signal/data pin",
+        "c) 5V power pin",
+        "d) Analog input AREF"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which of the following describes the primary function of an actuator?",
+      "options": [
+        "a. Converts motion to energy",
+        "b. Converts energy or signals into motion",
+        "c. Stores data",
+        "d. Connects to the internet"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "When using the Servo library in Arduino, which function is used to specify the pin where the servo is connected?",
+      "options": [
+        "a. servo.connect()",
+        "b. servo.attach()",
+        "c. servo.pinMode()",
+        "d. servo.write()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "In the context of the Arduino Servo library, which of the following is the correct function to command the servo motor to rotate to a specific angle?",
+      "options": [
+        "a. servo.move(angle)",
+        "b. servo.rotate(angle)",
+        "c. servo.write(angle)",
+        "d. servo.turn(angle)"
+      ],
+      "answer": 2
+    }
+  ]
+}

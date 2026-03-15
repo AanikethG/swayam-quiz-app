@@ -1,0 +1,161 @@
+{
+  "title": "Introduction To Internet Of Things - Week 4",
+  "week": 4,
+  "subject": "Introduction To Internet Of Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "State whether the following statement is true or false. Statement: Instead of a PIR sensor, a camera can also be used in the agricultural field to detect intruders.",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "An ultrasonic sensor senses the __________ at which the object is located.",
+      "options": [
+        "a. distance",
+        "b. coordinates",
+        "c. Both (a) and (b)",
+        "d. None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "WMSNs can be used for",
+      "options": [
+        "a. Security surveillance",
+        "b. Wild-habitat monitoring",
+        "c. Environmental monitoring",
+        "d. All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "State whether the following statement is true or false. Statement: Objective of coverage in WSN is to use minimum number of sensors and maximize network lifetime.",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "What is the full form of AUV in the context of mobile wireless sensor networks?",
+      "options": [
+        "a. Aerial and Underwater Vehicle",
+        "b. Ambient and Underprivileged Vehicle",
+        "c. Astral Underwater Vehicle",
+        "d. None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "State whether the following statement is true or false. In the localized coverage algorithm, special types of distributed algorithms are used where only one subset of nodes participates in sensing, communication, and computation.",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is/are advantage/advantages of Stationary Wireless Sensor Networks?",
+      "options": [
+        "a. Easy deployment",
+        "b. Easy topology maintenance",
+        "c. Both (a) and (b)",
+        "d. None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "State true or false. In Human-centric Sensing, humanbeings can act as Sensor Operators?",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is not a property of MANET-infrastructure less network of mobile devices connected wirelessly?",
+      "options": [
+        "a. Self-CHOP",
+        "b. Self-HOP",
+        "c. Both (a) and (b)",
+        "d. None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "State whether the following statement is true or false. Statement: UAV networks provide a solution for deployments where there is a need for frequent change configurations.",
+      "options": [
+        "a. False",
+        "b. True"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is NOT a feature of mesh topology in UAV system?",
+      "options": [
+        "a. Flexible",
+        "b. Reliable",
+        "c. None of these",
+        "d. Both (a) and (b)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is not a property of a FANET?",
+      "options": [
+        "a. Inter-plane communication",
+        "b. Intra-plane communication",
+        "c. Both (a) and (b)",
+        "d. None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 13,
+      "question": "State true or false. M2M networks are characterized by a few number of sensor nodes deployed over a large area.",
+      "options": [
+        "a. False",
+        "b. True",
+        "c. Can not be determined"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "question": "What is the full form of M2SP in the context of Machine-to-Machine Communication?",
+      "options": [
+        "a. M2M Stateless Platform",
+        "b. M2M Session Packet",
+        "c. M2M Secure Packaging",
+        "d. None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "The __________ provides integrated services based on device collected data-sets.",
+      "options": [
+        "a. M2M Application Platform",
+        "b. M2M Service Platform",
+        "c. M2M Hardware Platform",
+        "d. None of these"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Introduction To Internet Of Things - Week 0",
+  "week": 0,
+  "subject": "Introduction To Internet Of Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following allows us to identify objects and extract information?",
+      "options": [
+        "a. RFID",
+        "b. Sensors",
+        "c. Actuators",
+        "d. IoT Nodes"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "How many layers does Zigbee consist of?",
+      "options": [
+        "a. 1",
+        "b. 2",
+        "c. 3",
+        "d. 4"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is not a component of cloud computing?",
+      "options": [
+        "a. Clients",
+        "b. Local Servers",
+        "c. Services",
+        "d. Applications"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a distance measuring sensor module?",
+      "options": [
+        "a. DHT22",
+        "b. HC-SR04",
+        "c. TSL2591",
+        "d. HC-SR505"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a component in a typical sensor network?",
+      "options": [
+        "a. Sink",
+        "b. Gateway",
+        "c. Router",
+        "d. All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which of the following sensors are responsible for measuring orientation and angular velocity?",
+      "options": [
+        "a. Accelerometer",
+        "b. GPS",
+        "c. Temperature",
+        "d. None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "\"ISA 100.11A\" is a wireless networking technology standard. ISA stands for _______.",
+      "options": [
+        "a. International Society of Automation",
+        "b. International Society of Advancement",
+        "c. Industrial Society of Automation",
+        "d. Industrial Society of Advancement"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is not a difference between traditional data center and cloud computing?",
+      "options": [
+        "a. Scalability",
+        "b. Flexibility",
+        "c. Elasticity",
+        "d. Storage"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Smart grid is also known as the energy internet.",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "Can a point of node failure result in the partition of the network in the stationary sensor network?",
+      "options": [
+        "a. Yes",
+        "b. No"
+      ],
+      "answer": 0
+    }
+  ]
+}

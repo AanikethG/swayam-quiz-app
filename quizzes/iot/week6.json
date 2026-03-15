@@ -1,0 +1,161 @@
+{
+  "title": "Introduction To Internet Of Things - Week 6",
+  "week": 6,
+  "subject": "Introduction To Internet Of Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the output of the following Python code snippet? \ns = \"This is Python\"\nprint(s[2:4])",
+      "options": [
+        "a. is",
+        "b. hi",
+        "c. is (is with a space)",
+        "d. th"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of the try..except block in Python?",
+      "options": [
+        "a. To define a function.",
+        "b. To create a loop.",
+        "c. To handle exceptions and errors during code execution without crashing the program.",
+        "d. To import libraries."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a specific requirement in Python for defining code blocks (such as inside if-else statements or loops) that distinguishes it from many other programming languages?",
+      "options": [
+        "a. It requires the use of curly braces {} to enclose the code block.",
+        "b. It requires a begin and end keyword to mark the start and finish of the block.",
+        "c. It follows a very rigid indentation policy to indicate different blocks of code.",
+        "d. It requires every line of the block to end with a semicolon ;"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "When setting up a UDP client-server network in Python, why is it critical that both the client and server use the same port number?",
+      "options": [
+        "a. To save power.",
+        "b. To ensure the data is encrypted.",
+        "c. To ensure the client sends data to the exact endpoint where the server is listening.",
+        "d. It is not critical; they can use different ports."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "When using the Python open() function, what happens if you open a file in 'w' (write) mode that does not already exist?",
+      "options": [
+        "a. It throws a FileNotFoundError.",
+        "b. It automatically creates the file.",
+        "c. It opens the file in read-only mode.",
+        "d. It asks for user permission."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which of the following file modes is specifically mentioned to open a file for both reading and writing operations in Python?",
+      "options": [
+        "a. w",
+        "b. r",
+        "c. r+",
+        "d. a"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which command is used to expand the file system on a Raspberry Pi to cover the entire memory card after a fresh installation?",
+      "options": [
+        "a. sudo apt-get update",
+        "b. sudo reboot",
+        "c. sudo raspi-config",
+        "d. ifconfig"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What advantage does the Raspberry Pi 3 have over the Raspberry Pi Zero in terms of connectivity?",
+      "options": [
+        "a. Pi 3 has built-in Wi-Fi and Bluetooth, whereas Pi Zero does not have them (standard version).",
+        "b. Pi 3 is smaller.",
+        "c. Pi Zero is more expensive.",
+        "d. Pi 3 has fewer USB ports."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "When connecting the Raspberry Pi camera module to the Raspberry Pi using the ribbon cable, which direction should the blue tag on the cable face?",
+      "options": [
+        "a. Towards the HDMI port",
+        "b. Towards the USB ports",
+        "c. Towards the Ethernet port",
+        "d. Towards the GPIO pins"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which command does the lecture recommend typing in the terminal to capture an image directly with the Raspberry Pi camera without writing a full Python script?",
+      "options": [
+        "a. sudo apt-get install python-picamera",
+        "b. raspistill -o image_name.jpg",
+        "c. python camera_capture.py",
+        "d. picamera-capture(image.jpg)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "In the Python code shown for the blinking LED project, what is the purpose of the line: GPIO.setmode(GPIO.BOARD)?",
+      "options": [
+        "a. To set the GPIO pins to output mode.",
+        "b. To initialize the library for time functions.",
+        "c. To specify that the pin numbers will follow the physical board layout.",
+        "d. To clear the settings of the GPIO pins."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which of the following commands is used to install the Adafruit DHT library in Raspberry Pi after navigating to the folder?",
+      "options": [
+        "a. sudo apt-get install python",
+        "b. sudo python setup.py install",
+        "c. install dht_library",
+        "d. pip install dht"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which pin numbering configuration does the Adafruit DHT library automatically use for the sensor, requiring the user to specify the pin number accordingly?",
+      "options": [
+        "a. GPIO.BOARD",
+        "b. WiringPi",
+        "c. BCM (Broadcom SOC channel)",
+        "d. Physical Pin Numbering"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "In a DHT Sensor, ground is connected to which pin number?",
+      "options": [
+        "a. 1",
+        "b. 2",
+        "c. 3",
+        "d. 4"
+      ],
+      "answer": 3
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "title": "Introduction To Internet Of Things - Week 7",
+  "week": 7,
+  "subject": "Introduction To Internet Of Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the context of Networking with Raspberry Pi, what is the purpose of the socket.bind() function on the server side?",
+      "options": [
+        "a. To connect to a remote server",
+        "b. To associate the socket with a specific network interface and port number",
+        "c. To listen for incoming connections",
+        "d. To close the socket connection"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which Python library is used to integrate the DHT sensor with Raspberry Pi?",
+      "options": [
+        "a. NumPy",
+        "b. Adafruit_DHT",
+        "c. Matplotlib",
+        "d. Pandas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "In the client-server architecture demonstrated, what type of socket is used for data transmission?",
+      "options": [
+        "a. TCP Socket",
+        "b. UDP Socket",
+        "c. Raw Socket",
+        "d. None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Which function is used in Python to split a string into a list of substrings based on a delimiter?",
+      "options": [
+        "a. string.ext()",
+        "b. string.divide()",
+        "c. string.split()",
+        "d. string.break()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which one of the following Python libraries is used for data plotting?",
+      "options": [
+        "a. PyGame",
+        "b. Matplotlib",
+        "c. TensorFlow",
+        "d. Scikit-learn"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which function in the plotting library is used to enable the interactive plot mode?",
+      "options": [
+        "a. grid()",
+        "b. show()",
+        "c. ion()",
+        "d. subplot()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "The interface between the Control Plane and the Data Plane in SDN is known as",
+      "options": [
+        "a. Northbound API",
+        "b. Southbound API",
+        "c. Eastbound API",
+        "d. Westbound API"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Flow tables in SDN switches are typically stored in which type of specialized memory?",
+      "options": [
+        "a. RAM",
+        "b. ROM",
+        "c. TCAM",
+        "d. Flash"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT an attribute or component of SDN?",
+      "options": [
+        "a. Controller",
+        "b. Applications",
+        "c. Hardware switches",
+        "d. None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Which API terminology is used when referring to communication between multiple controllers in the control layer?",
+      "options": [
+        "a. Northbound API",
+        "b. Southbound API",
+        "c. East-Westbound API",
+        "d. None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What is the typical delay involved in new rule placement if the rule is not already present in the switch's flow table?",
+      "options": [
+        "a. 1 to 2 milliseconds",
+        "b. 3 to 5 milliseconds",
+        "c. 10 to 15 milliseconds",
+        "d. 100 milliseconds"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Approximately how many requests per second can a typical single-threaded SDN controller handle?",
+      "options": [
+        "a. 100",
+        "b. 500",
+        "c. 1000",
+        "d. 2000"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "What is SDN-WISE?",
+      "options": [
+        "a. A hardware component for sensors",
+        "b. A Software Defined WSN platform where the flow table is available at sensor nodes",
+        "c. A database management system",
+        "d. A type of cloud storage"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "In the experimental results shown for soft-WSN (Software Defined Wireless Sensor Network), how does the Packet Delivery Ratio (PDR) compare to a traditional WSN?",
+      "options": [
+        "a. PDR is lower in Soft-WSN",
+        "b. PDR is significantly improved (higher) in Soft-WSN",
+        "c. PDR remains exactly the same",
+        "d. Soft-WSN does not support packet delivery"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "In the \"Software Defined IoT\" architecture, where are flow classification and enhanced security typically handled?",
+      "options": [
+        "a. At the physical sensor nodes",
+        "b. At the Data Center Networks",
+        "c. At the gateways only",
+        "d. At the user's mobile device"
+      ],
+      "answer": 1
+    }
+  ]
+}

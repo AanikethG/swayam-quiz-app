@@ -1,0 +1,172 @@
+{
+  "title": "Introduction To Internet Of Things - Week 8",
+  "week": 8,
+  "subject": "Introduction To Internet Of Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which architecture proposes the use of an agent placed at access points to communicate with the controller in Software Defined Mobile Networks?",
+      "options": [
+        "a. uFlow",
+        "b. Odin",
+        "c. MobileFlow",
+        "d. OpenFlow"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which solution was proposed by the SWAN group for mobility-aware flow rule placement in mobile-based IoT systems?",
+      "options": [
+        "a. Odin",
+        "b. uFlow",
+        "c. MobileFlow",
+        "d. Soft-WSN"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "In the context of Data Center Networking using SDN, which type of flow requires exact match rules?",
+      "options": [
+        "a. Mice flow",
+        "b. Elephant flow",
+        "c. Cheetah flow",
+        "d. Tortoise flow"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Cloud computing is best described as using computing as a:",
+      "options": [
+        "a. Utility",
+        "b. Product",
+        "c. Protocol",
+        "d. None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT an essential characteristic of Cloud Computing?",
+      "options": [
+        "a. Rapid Elasticity",
+        "b. Measured Service",
+        "c. Resource Pooling",
+        "d. Fixed Resource Allocation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which deployment model is restricted to a single organization where cloud functionalities are available only within that organization?",
+      "options": [
+        "a. Public Cloud",
+        "b. Private Cloud",
+        "c. Hybrid Cloud",
+        "d. Community Cloud"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "In which service model are the Applications and Data managed by the user, while the Runtime, Middleware, and OS are managed by the provider?",
+      "options": [
+        "a. SaaS",
+        "b. PaaS",
+        "c. IaaS",
+        "d. None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which service model allows customers to rent virtualized servers and associated services, focusing on infrastructure like networking and storage?",
+      "options": [
+        "a. SaaS",
+        "b. PaaS",
+        "c. IaaS",
+        "d. XaaS"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a limitation of the SaaS model?",
+      "options": [
+        "a. Cross-platform support is required",
+        "b. Lack of multi-tenancy",
+        "c. Data security and privacy concerns",
+        "d. High switching costs for hardware"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What does SLA stand for in the context of Cloud Computing?",
+      "options": [
+        "a. Service Level Application",
+        "b. Service Level Agreement",
+        "c. Secure Level Access",
+        "d. Standard Level Agreement"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "The \"Bluepill\" attack is a specific type of threat targeting which component of the cloud infrastructure?",
+      "options": [
+        "a. Web Browser",
+        "b. Database",
+        "c. Hypervisor",
+        "d. Network Switch"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which term refers to the independent expectancy between two entities for a specific context at a given time?",
+      "options": [
+        "a. Trust",
+        "b. Reputation",
+        "c. Authorization",
+        "d. Authentication"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a feature of the GreenCloud simulator?",
+      "options": [
+        "a. It allows monitoring of energy consumption of networks and devices",
+        "b. It is a closed-source paid software",
+        "c. It is developed by Microsoft",
+        "d. It does not support GUI"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "question": "What is the primary difference between Microsoft Azure's PaaS (Platform as a Service) and IaaS (Infrastructure as a Service) offerings?",
+      "options": [
+        "a. PaaS is free, IaaS is paid",
+        "b. PaaS provides a development environment for clients to build apps, while IaaS offers control over OS and infrastructure",
+        "c. IaaS is for mobile only, PaaS is for web only",
+        "d. There is no difference"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a Java-based cloud simulation platform developed at the University of Melbourne?",
+      "options": [
+        "a. GreenCloud",
+        "b. CloudSim",
+        "c. iCanCloud",
+        "d. DC Sim"
+      ],
+      "answer": 1
+    }
+  ]
+}

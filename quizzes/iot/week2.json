@@ -1,0 +1,168 @@
+{
+  "title": "Introduction To Internet Of Things - Week 2",
+  "week": 2,
+  "subject": "Introduction To Internet Of Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The full form of MQTT is",
+      "options": [
+        "a. Message Query Telemetry Transport",
+        "b. Message Queuing Telemetry Transport",
+        "c. Message Queue Telemedicine Transport",
+        "d. None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "XMPP uses the __________ architecture.",
+      "options": [
+        "a. Publish-subscribe",
+        "b. Client-server",
+        "c. Both (a) and (b)",
+        "d. Neither (a) nor (b)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "With respect to AMQP, which of the following message delivery guarantees allow each message to be delivered certainly but also may be delivered multiple times.",
+      "options": [
+        "a. At-least-once",
+        "b. At-most-once",
+        "c. Exactly-once",
+        "d. Both (a) and (b)"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "In MQTT for IoT, the Publishers are __________.",
+      "options": [
+        "a. Lightweight sensors",
+        "b. Actuators",
+        "c. Processing units",
+        "d. None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT a method in MQTT?",
+      "options": [
+        "a. Publish",
+        "b. Connect",
+        "c. Disconnect",
+        "d. None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "CoAP has __________ modes for messaging.",
+      "options": [
+        "a. 2",
+        "b. 4",
+        "c. 8",
+        "d. None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "State True or False: CoAP architecture is divided into three sub-layers. The messaging sub-layer is responsible for reliability and duplication of messages, while the request-response sub-layer is responsible for communication. The last layer, which is optional, is responsible for user registration.",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the full form of XMPP in IoT?",
+      "options": [
+        "a. Extensible Markup Page Processing",
+        "b. Extensible Messaging and Presence Protocol",
+        "c. Both (a) and (b)",
+        "d. Neither (a) nor (b)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "State whether the following statement if True or False. Statement: XMPP is not an open standard protocol.",
+      "options": [
+        "(a) False",
+        "(b) True"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "What is the full is/are not frame type of the AMQP protocol?",
+      "options": [
+        "a. Origin",
+        "b. Destination",
+        "c. Advance",
+        "d. All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "What is the basic unit of data in the AMQP protocol?",
+      "options": [
+        "a. Chunk",
+        "b. Byte",
+        "c. Frame",
+        "d. None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is/are exchange types in AMQP?",
+      "options": [
+        "a. Direct",
+        "b. Fan-out",
+        "c. Topic",
+        "d. All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is/are not an application of 6LoWPAN?",
+      "options": [
+        "a. IoT",
+        "b. IIoT",
+        "c. Both (a) and (b)",
+        "d. Neither (a) nor (b)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "The OSI model has __________ layers.",
+      "options": [
+        "a. 6",
+        "b. 9",
+        "c. 4",
+        "d. None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "The \"Destination Address\" in the IPv4 packet represents which of the following?",
+      "options": [
+        "a. The destination node address of the packet",
+        "b. The intermediate hop in the network",
+        "c. Both (a) and (b)",
+        "d. None of these"
+      ],
+      "answer": 0
+    }
+  ]
+}

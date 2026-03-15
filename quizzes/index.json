@@ -6,9 +6,49 @@
     "color": "#6366f1",
     "weeks": [
       {
+        "week": 0,
+        "title": "Introduction To Internet Of Things - Week 0",
+        "file": "iot/week0.json"
+      },
+      {
         "week": 1,
         "title": "Introduction to IoT",
         "file": "iot/week1.json"
+      },
+      {
+        "week": 2,
+        "title": "Introduction To Internet Of Things - Week 2",
+        "file": "iot/week2.json"
+      },
+      {
+        "week": 3,
+        "title": "Introduction To Internet Of Things - Week 3",
+        "file": "iot/week3.json"
+      },
+      {
+        "week": 4,
+        "title": "Introduction To Internet Of Things - Week 4",
+        "file": "iot/week4.json"
+      },
+      {
+        "week": 5,
+        "title": "Introduction To Internet Of Things - Week 5",
+        "file": "iot/week5.json"
+      },
+      {
+        "week": 6,
+        "title": "Introduction To Internet Of Things - Week 6",
+        "file": "iot/week6.json"
+      },
+      {
+        "week": 7,
+        "title": "Introduction To Internet Of Things - Week 7",
+        "file": "iot/week7.json"
+      },
+      {
+        "week": 8,
+        "title": "Introduction To Internet Of Things - Week 8",
+        "file": "iot/week8.json"
       }
     ]
   },

@@ -14,7 +14,7 @@ A fast, fully responsive, and elegant vanilla JavaScript web application designe
 
 ## 🚀 Live Demo
 
-You can view the live application here: **[Link to GitHub Pages URL]** *(Update this link once GitHub Pages is enabled)*
+You can view the live application here: **[swayam-quiz-app](https://aanikethg.github.io/swayam-quiz-app)**
 
 ## 📂 Project Structure
 
@@ -68,3 +68,7 @@ Adding new content requires zero coding. Just two simple steps:
 
 ---
 Built for SWAYAM learners.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

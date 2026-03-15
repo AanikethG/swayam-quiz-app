@@ -1,0 +1,158 @@
+{
+  "title": "Introduction To Internet Of Things - Week 3",
+  "week": 3,
+  "subject": "Introduction To Internet Of Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "State whether the following statement is true or false. Statement: There is no network layer in Wired HART",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "Zwave operates at ________ MHz in the US and ________ MHz in Europe.",
+      "options": [
+        "a. 1008, 989",
+        "b. 908.42, 868.42",
+        "c. 767.56, 855.28",
+        "d. None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Dumb behavior of sensor nodes is ________ in nature (as it is dependent on the effects of the environmental conditions).",
+      "options": [
+        "a. Temporal",
+        "b. Spatial",
+        "c. Both (a) and (b)",
+        "d. None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "The process of identifying channels consistently affected by interference and removing them from use is known as ________.",
+      "options": [
+        "a. Channel Trimming",
+        "b. Channel Flushing",
+        "c. Both (a) and (b)",
+        "d. None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "The full form of NFC is",
+      "options": [
+        "a. Near Field Contact",
+        "b. Near Field Communication",
+        "c. Both (a) and (b)",
+        "d. Neither (a) nor (b)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "State true or false. NFC works on the principle of magnetic induction.",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "State whether the following statement is true or false. Statement: NFC tags found in supermarket products are examples of active NFC.",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Bluetooth is based on ________.",
+      "options": [
+        "a. Piconets",
+        "b. Binarynets",
+        "c. Both (a) and (b)",
+        "d. None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "A ________ in NFC emits a small electric current which creates a magnetic field that in turn bridges the physical space between the devices.",
+      "options": [
+        "a. reader",
+        "b. writer",
+        "c. destroyer",
+        "d. None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "State true or false. Bluetooth technology is based on Ad-hoc network technology",
+      "options": [
+        "a. False",
+        "b. True"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "State true or false. Zwave utilizes GFSK modulation and Manchester channel encoding.",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 12,
+      "question": "The process of bypassing radio dead-spots is done using a message called ________ in Zwave.",
+      "options": [
+        "a. Ping",
+        "b. Healing",
+        "c. Frame",
+        "d. None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "State whether the following statement is true or false. Statement: Sensor nodes have unlimited battery life.",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "State whether the following statement is true or false. Statement: The Link Manager Protocol in Bluetooth manages the establishment, authentication, link configuration.",
+      "options": [
+        "a. True",
+        "b. False"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 15,
+      "question": "Zigbee commonly uses ________ data rate.",
+      "options": [
+        "a. 250 kbps",
+        "b. 250 Mbps",
+        "c. 280 kbps",
+        "d. 280 Mbps"
+      ],
+      "answer": 0
+    }
+  ]
+}
